@@ -1,2 +1,0 @@
-# calculateAppleAmount
-Created with CodeSandbox
